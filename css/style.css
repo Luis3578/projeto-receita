@@ -52,7 +52,8 @@ main {
 }
 
 section {
-    width: 300px;
+    max-width: 420px;
+    margin: 0 auto;
 }
 
 .img-header-responsivel{
